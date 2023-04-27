@@ -6,5 +6,7 @@ dependencies:
   - python>=3.10
   - ipykernel
   - scikit-learn=1.2.1
-  - jupyterlab>=3.5.0
+  - jupyterlab
+  - pandas
+  - matplotlib
 prefix: ${HOME}/.conda/envs/myenv
